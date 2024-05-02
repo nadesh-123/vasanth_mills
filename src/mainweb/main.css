@@ -1,0 +1,53 @@
+.hero{
+    width:100%;
+    height:150vh;
+background:linear-gradient(rgba(40,20,45,0.7),rgba(30,20,45,0.7)) ,url(../assets/machine.jpeg);
+background-size: cover;
+background-position:center;
+color: white
+
+}
+.vasanth{
+    text-align: left;
+    font-size: 60px;
+    color:rgb(5, 255, 205);
+}
+.mainhead{
+    padding-top: 2%;
+    margin-left: 20px;
+}
+.product1{
+    width:250px;
+    height:250px;
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 4%;
+    float:left;
+    box-shadow:5px 5px 5px rgba(132, 137, 138, 0.941) ;
+}
+p{
+    font-size: 20px;
+    margin:10px;
+    
+}
+.content1{
+    padding-top: 50px;
+}
+.product2{
+    width:250px;
+    height:250px;
+    border-radius: 20px;
+    margin-right: 10%;
+    margin-left: 4%;
+    float:right;
+    box-shadow:5px 5px 5px rgba(132, 137, 138, 0.941) ;   
+}
+.product3{
+    width:250px;
+    height:250px;
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-right: 4%;
+    float:left;
+    box-shadow:5px 5px 5px rgba(132, 137, 138, 0.941) ;
+}
